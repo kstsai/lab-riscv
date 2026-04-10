@@ -2,24 +2,24 @@
 
 You are expected to: 
 
-Design test frameworks, not just test cases 
+- Design test frameworks, not just test cases 
 
-Write production‑grade automation code 
+- Write production‑grade automation code 
 
-Understand CPU architecture + software stack 
+- Understand CPU architecture + software stack 
 
-Debug issues across software + hardware boundaries 
+- Debug issues across software + hardware boundaries 
 
 Key domains: 
 
-RISC‑V architecture 
+- RISC‑V architecture 
 
-Linux kernel & user space 
+- Linux kernel & user space 
 
-Compiler toolchains 
+- Compiler toolchains 
 
-QEMU & FPGA-based validation 
+- QEMU & FPGA-based validation 
 
-CI/CD automation 
+- CI/CD automation 
 
 Performance & regression testing  
