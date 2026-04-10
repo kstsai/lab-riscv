@@ -22,4 +22,4 @@ Key domains:
 
 - CI/CD automation 
 
-Performance & regression testing  
+- Performance & regression testing  
