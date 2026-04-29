@@ -46,8 +46,8 @@ spec:
                 shell: /bin/bash
                 ssh-authorized-keys:
                   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDdJ6jvxp2pGJQ4aGr99NXywQD0Q8tS8G/JYo1NNkqdO 
-            package_update: true
-            package_upgrade: true
+            package_update: false
+            package_upgrade: false
             packages:
               - qemu-guest-agent
               - curl
